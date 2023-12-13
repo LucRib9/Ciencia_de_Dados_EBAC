@@ -6,5 +6,7 @@ Neste módulo é ensinada a técnicas de ensemble Bagging e sua aplicação no m
 Na primeira tarefa, é explicado o que é Bagging e como ele funciona no Python, sendo aplicado tanto em dataset do tipo
 classifier quanto no tipo regression.
 
-NA segunda tarefa, há uma introdução à técnica de Random Forest, tendo um passo-a-passo sobre ela, uma breve explicação,
+Na segunda tarefa, há uma introdução à técnica de Random Forest, tendo um passo-a-passo sobre ela, uma breve explicação,
 uma comparação com a técnica Bagging e também exemplificações em python.
+
+A terceira e última tarefa deste módulo explica quais são os hiperparâmetros da Random Forest.
