@@ -7,4 +7,4 @@ Neste módulo são apresentadas as componentes mais importantes de cálculo, sen
 Na primeira atividade, são discutidas algumas aplicações das derivadas em computação. Como por exemplo a descrição de algoritmos 
 que utilizam derivadas.
 
-A segunda atividade é sobre integral de Riemann, na qual é calculado a integral da função $x^{3}$ no intervalo [1, 2].
+A segunda atividade é sobre integral de Riemann, na qual é calculada a integral da função $x^{3}$ no intervalo [1, 2].
