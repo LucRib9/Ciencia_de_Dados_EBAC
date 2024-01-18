@@ -7,3 +7,6 @@ base de dados.
 
 Na primeira atividade são analisados o tempo de processamento e a acurácia dos ajustes de árvores de classificação a partir do número de 
 componentes obtidos pelo PCA.
+
+Na segunda tarefa é comparada a qualidade do ajuste de uma árvore sobre as componentes principais de uma base padronizada com a sua versão 
+original (não padronizada).
