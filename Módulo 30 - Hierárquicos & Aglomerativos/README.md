@@ -8,3 +8,5 @@ entre si são agrupados. O número de grupos é definido pelo usuário.
 
 Na primeira tarefa é analisada qual a quantidade ideal de grupos para descrever a base de dados sobre pinguins de três espécies
 diferentes. 
+
+Na segunda tarefa são agrupados os dados de compradores online de acordo com os dados do google.
