@@ -12,7 +12,7 @@ As características dos clientes e de suas respectivas compras analisadas neste 
 * ValorTotal - Valor da compra realizada.
 
 ### Link para a aplicação (LIVE)
-[https://telemarketing-ebac-wzu2.onrender.com/](https://rfv-ebac.onrender.com/)
+[https://telemarketing-ebac-wzu2.onrender.com/](https://k-means-ebac.onrender.com)
 
 ## Utilização
 
