@@ -22,13 +22,14 @@ As características dos clientes e de suas respectivas compras analisadas neste 
   (tal como Visual Studio Code), um software capaz de executar o código no formato py (por exemplo o Git Bash) e um leitor de planilhas no formato csv
   (pode utilizar o libre office).
 * Os pacotes necessários para rodar o código são:
-- pandas==2.2.0
+- pandas==2.1.4
+- scikit-learn==1.4.2
 - seaborn==0.13.1
 - streamlit==1.30.0
-- XlsxWriter==3.1.9
-- matplotlib==3.8.2
+- matplotlib==3.7.5
 - protobuf==4.25.2
 - numpy==1.26.4
+  
 o que pode ser confirmado no arquivo requirements.txt.
 
 ### Instalação
