@@ -56,7 +56,6 @@ python -m streamlit run app_RFV.py
 
 * Com o carregamento dos dados, aparecerá na tela um conjunto de tabelas onde se encontram os dados de cada cliente, tais como "Recência" (informa há quantos dias o cliente realizou a última compra), "Frequência" (número de vezes que o cliente realizou compras com a loja) e "Valor" (gasto total de cada cliente no período analisado).
 * Após estas tabelas são realizadas as classificações de cada cliente em relação aos seus comportamentos, podendo variar entre "D" (pior classificação) e "A" (melhor tipo de cliente).
-* A tabela com todos os dados e análises pode ser baixada por meio do botão "Download" no final da página.
 * Após a criação da tabela com dados e análises, é realizada a clusterização por K-Means, na qual são apresentados os gráficos comparando os clusters com os agrupamentos por RFV e a tabela da ação de Marketing de acordo com o cluster. 
 
 ## Ajuda
